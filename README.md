@@ -9,4 +9,4 @@ To play the game, simply download the *.sb3* file and once you've opended it, cl
 
 ## Liscence
 
-This repository is under the **MIT Licence**.
+MIT Licence. Check the [LICENCE](https://github.com/Uppercase-M/vexelite/blob/main/LICENSE/) for more details.
